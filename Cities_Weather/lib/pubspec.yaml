@@ -1,0 +1,60 @@
+name: Cities_Weather
+version: 0.0.99
+author: Flutter Authors <flutter-dev@googlegroups.com>
+description: pubspec pour le projet
+homepage: http://flutter.io
+# sky_engine requires sdk_ext support in the analyzer which was added in 1.11.x
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+assets :
+assets/cloud.svg
+assets/cloudy-1.svg
+assets/cloudy-2.svg
+assets/direction-1.svg
+assets/direction-2.svg
+assets/haze.svg
+assets/night-cloud.svg
+assets/night-wind.svg
+assets/night.svg
+assets/overcast.svg
+assets/rain-2.svg
+assets/rain-3.svg
+assets/rain-4.svg
+assets/rain-5.svg
+assets/rain-drops-2.svg
+assets/rain-drops-3.svg
+assets/rain-wind.svg
+assets/rain.svg
+assets/rainbow.svg
+assets/snow-1.svg
+assets/snow-2.svg
+assets/snow-3.svg
+assets/snow.svg
+assets/sprinkle.svg
+assets/stars-1.svg
+assets/stars-2.svg
+assets/sun-cloud.svg
+assets/sunlight.svg
+assets/sunrise.svg
+assets/thunderstrom.svg
+assets/tornado-1.svg
+assets/tornado-2.svg
+assets/umbrella-1.svg
+assets/umbrella-2.svg
+assets/wind-1.svg
+assets/wind-2.svg
+assets/windy-1.svg
+assets/windy-2.svg
+assets/windy-3.svg
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.0.0
+  http: ^0.13.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter'
